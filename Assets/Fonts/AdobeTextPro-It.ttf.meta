@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4acfc8fb5bab1994a827b176c4889019
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adobe Text Pro
+  fontNames:
+  - Adobe Text Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62dce28e0e4df2b448f2a9527e816a28, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

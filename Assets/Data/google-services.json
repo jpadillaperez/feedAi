@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269242996900",
+    "firebase_url": "https://fedai-d998c.firebaseio.com",
+    "project_id": "fedai-d998c",
+    "storage_bucket": "fedai-d998c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269242996900:android:34debf8fb0a2533d3eee31",
+        "android_client_info": {
+          "package_name": "com.CoworkersSons.FeedAI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269242996900-1tr4s11g4o5p8bo5r5bpvqcdihb17hrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBplt0910UW4p0oOkPbpjJQo6NFspVkfrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269242996900-1tr4s11g4o5p8bo5r5bpvqcdihb17hrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
